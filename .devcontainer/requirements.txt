@@ -10,3 +10,5 @@ pandas
 joblib
 xgboost
 boto3
+openpyxl
+germanholidays
