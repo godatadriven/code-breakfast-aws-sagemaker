@@ -1,0 +1,12 @@
+matplotlib
+seaborn
+statsmodels
+sklearn
+pmdarima
+sagemaker
+jupyter
+numpy
+pandas
+joblib
+xgboost
+boto3

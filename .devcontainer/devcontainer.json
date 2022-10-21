@@ -1,0 +1,18 @@
+{
+    "build": {
+        "dockerfile": "Dockerfile",
+        "context": ".."
+    },
+    "remoteUser": "vscode",
+    "mounts": [
+        "source=/Users/dunnkers/.aws,target=/home/vscode/.aws,type=bind,consistency=cached"
+    ],
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-toolsai.jupyter",
+                "ms-python.python"
+            ]
+        }
+    }
+}
