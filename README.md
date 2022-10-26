@@ -56,3 +56,6 @@ Hi! Let's get you logged into the SageMaker Studio environment and start buildin
 
 
 Good luck! 🍀
+
+## About
+Created by Usman Zafar and Jeroen Overschie, working for GoDataDriven.
