@@ -12,11 +12,13 @@ Hi! Let's get you logged into the SageMaker Studio environment and start buildin
 
 2. Login with your credentials:
 
-    ![](docs/aws-login-screen.png)
+    <img src="docs/aws-login-screen.png" width="300px" />
 
 3. Open up SageMaker in the AWS console:
 
-    ![](docs/sagemaker-in-aws-console.png)
+    <img src="docs/sagemaker-in-aws-console.png" />
+
+1. Switch your region to **Ireland**.
 
 4. Go to SageMaker **Domains** and filter on your user name:
 
@@ -26,7 +28,8 @@ Hi! Let's get you logged into the SageMaker Studio environment and start buildin
 
     Then click Launch App -> Studio. Give SM Studio a bit of time to launch:
 
-    ![](docs/sm-studio-starting.png)
+    <img src="docs/sagemaker-in-aws-console.png" width="200px" />
+
 
     After this SM Studio should have started:
 
